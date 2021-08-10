@@ -15,6 +15,13 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+---
+layout: page
+title: project
+description: a project with a background image
+img: /assets/img/12.jpg
+---
+
 - Bulleted
 - List
 
